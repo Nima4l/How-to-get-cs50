@@ -1,4 +1,4 @@
-# How-to-get-cs50
+# How-to-get-cs50x
 in this repository, I will teach you how to get cs50 Harvard
 <figure>
     <img style="width:50vw;" src="my-certificate.png"
